@@ -1,0 +1,23 @@
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+  background-color: #DC3544 !important;
+  color: #fff !important;
+}
+
+.nav-pills .show > .nav-link:hover {
+  background-color: #bd2130 !important;
+}
+
+a {
+  color: #fff !important;
+  text-decoration: none !important;
+  background-color: transparent !important;
+  -webkit-text-decoration-skip: objects !important;
+}
+
+a:hover {
+  color: #ccc !important;
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Node API Template",
+  "description": "Template de API em NodeJS",
+  "repository": "https://github.com/felipefa/node-api-template.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "api"]
+}

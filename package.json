@@ -1,0 +1,28 @@
+{
+  "name": "node-api-template",
+  "version": "0.0.1",
+  "description": "Template de API em NodeJS",
+  "engines": {
+    "node": "8.11.3"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "mongoose": "^5.2.14"
+  },
+  "devDependencies": {
+    "request": "^2.81.0",
+    "tape": "^4.7.0"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "express"
+  ],
+  "license": "MIT"
+}
